@@ -1,0 +1,33 @@
+body { 
+
+}
+
+#ButtonsContainers { 
+    border: 1px ,solid, black;
+    max-width: 25%;
+    text-align: center;
+
+    margin: auto; /* this line align the itens in the center of the page */ 
+    margin-top: 250px;
+
+    padding: 50px;
+
+}
+.SubmitBtns { 
+ 
+    border:0px solid white;
+
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding-top:6px ;
+
+    font-size: 1.2em;
+    
+}
+.SubmitLabel { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.2em ;
+
+}
