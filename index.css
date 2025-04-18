@@ -58,7 +58,6 @@ p {
     height: 36px;
     max-height: 100%;
 
-    overflow:scroll;
 }
 .SubmitBtns:hover { 
     background: rgba(62, 9, 112, 0.842);
